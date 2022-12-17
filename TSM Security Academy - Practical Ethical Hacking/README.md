@@ -1,6 +1,6 @@
 # TSM Security Academy - Practical Ethical Hacking
 
-- The TCM Security Practical Ethical Hacking course is a comprehensive and hands-on training program that teaches individuals the skills and knowledge needed to understand and identify vulnerabilities in computer systems, networks, and web applications. The course covers a wide range of topics, including ethical hacking principles, network and web application penetration testing, and risk assessment and mitigation.
+The TCM Security Practical Ethical Hacking course is a comprehensive and hands-on training program that teaches individuals the skills and knowledge needed to understand and identify vulnerabilities in computer systems, networks, and web applications. The course covers a wide range of topics, including ethical hacking principles, network and web application penetration testing, and risk assessment and mitigation.
 
 Throughout the course, students will have the opportunity to apply their knowledge and skills through practical exercises and real-world scenarios. They will learn how to use various tools and techniques to identify and exploit vulnerabilities, and how to use this information to recommend and implement effective security measures.
 
